@@ -1,0 +1,52 @@
+
+*{
+  margin: 0%;
+  box-sizing: border-box;
+}
+main{
+  border: 1px solid;
+
+  width: 300px;
+  margin: auto;
+
+  text-align: center;
+  margin-top: 75px;
+
+}
+
+h1{
+  font-size: 40px;
+
+}
+body{
+  background: #080019;
+  color: #F1F1F1;
+}
+
+a{
+  color: #F1F1F1;
+  text-decoration: none;
+}
+
+a:hover{
+  color:#7b04b6
+}
+
+p{
+  margin-bottom: 145px;
+  opacity: 0.7;
+
+
+}
+
+img{
+  width: 126px;
+  height: 126px;
+  border-radius: 50%;
+  border: 6px solid #FF39F7;
+
+  margin-bottom: 25px;
+
+
+
+}
